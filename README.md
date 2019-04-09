@@ -1,2 +1,2 @@
 ### ejercicio
-## ambientes
+## ambientes no propietarios
